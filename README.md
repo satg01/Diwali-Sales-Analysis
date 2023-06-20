@@ -14,7 +14,7 @@ Generated actionable recommendations based on the analysis outcomes.
 <br>📌 These recommendations aim to optimize sales strategies, identify potential growth opportunities, enhance customer satisfaction, and drive business success during the Diwali festival. The recommendations can guide decision-making processes related to marketing campaigns, product promotions, pricing strategies, and customer engagement initiatives.
 
 # Technologies Used
-<h3>📌 Power BI : </h3> Developed an interactive dashboard with intuitive visualizations, slicers, filters, and drill-down capabilities to explore and analyze sales data effectively.
+<h3>📌 Power BI : </h3> Developed an interactive dashboard with intuitive visualizations, slicers, filters, and drill-down capabilities to explore and analyze sales data effectively https://www.novypro.com/project/diwali-sales--power-bi.
  <h3> 📌 Python : </h3> Utilized Python programming language and popular data analysis libraries (Pandas, NumPy, Matplotlib) to perform data preprocessing, cleaning, and advanced analysis tasks.Analysis file in pdf format  link : https://drive.google.com/file/d/1F7NTVO8ffa9SpicukBnz8CvslcU41gmz/view?usp=drive_link
 <h2>Repository Contents</h2>
  <h3>📌 Dashboard : </h3>
