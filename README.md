@@ -7,8 +7,8 @@
 # Project Highlights
 📌 Utilized Power BI to design and develop an interactive and visually appealing dashboard that showcases key sales metrics, trends, and customer insights. The dashboard provides an intuitive user interface with slicers, filters, and drill-down capabilities to explore and analyze sales data from various dimensions.<br>
 📌 Leveraged Python for data preprocessing, cleaning, and advanced analysis tasks. The raw sales data was processed using libraries such as Pandas and NumPy to ensure data quality, consistency, and accuracy for reliable analysis results.
-<br>📌 The Python code also implemented statistical analysis techniques to identify patterns, correlations, and outliers within the data.
-Conducted in-depth analysis of the sales data, including revenue analysis, product performance analysis, customer segmentation, and market trends analysis. The analysis revealed the top-selling products, their contribution to overall revenue, customer preferences, and buying patterns during the Diwali festival.
+<br>📌 The Python code also implemented statistical analysis techniques to identify patterns, correlations, and outliers within the data.<br>
+Conducted in-depth analysis of the sales data, including revenue analysis, product performance analysis, customer segmentation, and market trends analysis.<br> The analysis revealed the top-selling products, their contribution to overall revenue, customer preferences, and buying patterns during the Diwali festival.<br>
 Implemented advanced visualization techniques in Power BI, such as bar charts, line graphs, heatmaps, and geographic maps, to present the analysis findings in a visually compelling manner. These visualizations not only enhance data interpretation but also enable stakeholders to gain actionable insights at a glance.
 Generated actionable recommendations based on the analysis outcomes. 
 <br>📌 These recommendations aim to optimize sales strategies, identify potential growth opportunities, enhance customer satisfaction, and drive business success during the Diwali festival. The recommendations can guide decision-making processes related to marketing campaigns, product promotions, pricing strategies, and customer engagement initiatives.
@@ -16,7 +16,7 @@ Generated actionable recommendations based on the analysis outcomes.
 # Technologies Used
 <h3>📌 Power BI : </h3> Developed an interactive dashboard with intuitive visualizations, slicers, filters, and drill-down capabilities to explore and analyze sales data effectively.
  <h3> 📌 Python : </h3> Utilized Python programming language and popular data analysis libraries (Pandas, NumPy, Matplotlib) to perform data preprocessing, cleaning, and advanced analysis tasks.
-Repository Contents
+<h2>Repository Contents</h2>
  <h3>📌 Dashboard : </h3>
 Contains the Power BI dashboard link : https://www.novypro.com/project/diwali-sales--power-bi that showcases the Diwali Sales Analysis Dashboard. The dashboard provides an interactive interface to explore the sales data and gain valuable insights.
 Notebooks: Includes Jupyter notebooks used for data preprocessing, analysis, and visualization in Python. The notebooks provide a step-by-step overview of the data analysis process, showcasing the data cleaning techniques, statistical analysis methods, and visualization approaches employed.
