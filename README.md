@@ -14,13 +14,13 @@ Generated actionable recommendations based on the analysis outcomes.
 📌 These recommendations aim to optimize sales strategies, identify potential growth opportunities, enhance customer satisfaction, and drive business success during the Diwali festival. The recommendations can guide decision-making processes related to marketing campaigns, product promotions, pricing strategies, and customer engagement initiatives.
 
 # Technologies Used
-📌<h3> Power BI : </h3> Developed an interactive dashboard with intuitive visualizations, slicers, filters, and drill-down capabilities to explore and analyze sales data effectively.
-📌 <h3> Python : </h3> Utilized Python programming language and popular data analysis libraries (Pandas, NumPy, Matplotlib) to perform data preprocessing, cleaning, and advanced analysis tasks.
+<h3>📌 Power BI : </h3> Developed an interactive dashboard with intuitive visualizations, slicers, filters, and drill-down capabilities to explore and analyze sales data effectively.
+ <h3> 📌 Python : </h3> Utilized Python programming language and popular data analysis libraries (Pandas, NumPy, Matplotlib) to perform data preprocessing, cleaning, and advanced analysis tasks.
 Repository Contents
-📌 <h3> Dashboard : </h3>
+ <h3>📌 Dashboard : </h3>
 Contains the Power BI file (.pbix) that showcases the Diwali Sales Analysis Dashboard. The dashboard provides an interactive interface to explore the sales data and gain valuable insights.
 Notebooks: Includes Jupyter notebooks used for data preprocessing, analysis, and visualization in Python. The notebooks provide a step-by-step overview of the data analysis process, showcasing the data cleaning techniques, statistical analysis methods, and visualization approaches employed.
-📌  <h3> Data :</h3> Stores the raw data files used for the analysis, including the "diwalisale.csv" dataset. The dataset contains information about sales transactions, including product details, customer information, sales dates, and revenue.
+<h3> 📌 Data :</h3> Stores the raw data files used for the analysis, including the "diwalisale.csv" dataset. The dataset contains information about sales transactions, including product details, customer information, sales dates, and revenue.
 # Project Results
 The Diwali Sales Analysis Dashboard provides valuable insights into sales performance during the Diwali festival. The analysis reveals:
 
