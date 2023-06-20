@@ -1,7 +1,7 @@
 # Project Title: Diwali Sales Analysis
 # Overview
-📌 The Diwali Sales Analysis Dashboard is a comprehensive data analysis project that aims to analyze sales data during the Diwali festival season and provide valuable insights to drive business growth.
-📌 The project combines the power of Power BI for interactive visualization and Python for advanced data analysis techniques.
+📌 The Diwali Sales Analysis Dashboard is a comprehensive data analysis project that aims to analyze sales data during the Diwali festival season and provide valuable insights to drive business growth.<br>
+📌 The project combines the power of Power BI for interactive visualization and Python for advanced data analysis techniques.<br>
 📌 By leveraging these tools, the project offers a holistic view of sales performance, customer behaviour, and market trends during the Diwali festival.
 
 # Project Highlights
@@ -21,7 +21,7 @@ Repository Contents
 Contains the Power BI file (.pbix) that showcases the Diwali Sales Analysis Dashboard. The dashboard provides an interactive interface to explore the sales data and gain valuable insights.
 Notebooks: Includes Jupyter notebooks used for data preprocessing, analysis, and visualization in Python. The notebooks provide a step-by-step overview of the data analysis process, showcasing the data cleaning techniques, statistical analysis methods, and visualization approaches employed.
 <h3> 📌 Data :</h3> Stores the raw data files used for the analysis, including the "diwalisale.csv" dataset. The dataset contains information about sales transactions, including product details, customer information, sales dates, and revenue.
-# Project Results
+<h2> Project Results</h2>
 The Diwali Sales Analysis Dashboard provides valuable insights into sales performance during the Diwali festival. The analysis reveals:
 
 Overall sales trends during the Diwali season, including peak sales periods, fluctuations, and year-on-year comparisons.
