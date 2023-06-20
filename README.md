@@ -20,7 +20,7 @@ Repository Contents
 📌  Dashboard:
 Contains the Power BI file (.pbix) that showcases the Diwali Sales Analysis Dashboard. The dashboard provides an interactive interface to explore the sales data and gain valuable insights.
 Notebooks: Includes Jupyter notebooks used for data preprocessing, analysis, and visualization in Python. The notebooks provide a step-by-step overview of the data analysis process, showcasing the data cleaning techniques, statistical analysis methods, and visualization approaches employed.
-📌  Data: Stores the raw data files used for the analysis, including the "diwalisale.csv" dataset. The dataset contains information about sales transactions, including product details, customer information, sales dates, and revenue.
+📌  <h3>Data<h3>: Stores the raw data files used for the analysis, including the "diwalisale.csv" dataset. The dataset contains information about sales transactions, including product details, customer information, sales dates, and revenue.
 # Project Results
 The Diwali Sales Analysis Dashboard provides valuable insights into sales performance during the Diwali festival. The analysis reveals:
 
